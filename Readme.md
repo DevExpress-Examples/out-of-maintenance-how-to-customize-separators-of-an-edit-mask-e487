@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomCulture/Form1.cs) (VB: [Form1.vb](./VB/CustomCulture/Form1.vb))
+<!-- default file list end -->
 # How to customize separators of an edit mask
 
 
